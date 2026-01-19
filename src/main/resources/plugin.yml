@@ -1,0 +1,7 @@
+name: PVVoiceMessageAddon
+version: '${version}'
+main: ru.thegektor.pvaddon.server.PVAddonPlugin
+api-version: '1.21'
+prefix: PVVerify
+authors: [TheGektor]
+description: Voice messages addon for PlasmoVoice
